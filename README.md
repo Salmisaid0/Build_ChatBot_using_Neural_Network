@@ -1,2 +1,4 @@
-# Deep_and_Machine_Learning_Projects
-This Repository contains the list of various Machine and Deep Learning related projects. Related code and data files are available inside this folder. One can go through these projects to implement them in real life for specific use cases.
+# Build ChatBot Using Neural Network 
+This project is a chatbot application that uses deep learning and NLP to understand and reply intelligently. 
+It loads a dataset of intents and responses, preprocesses text, trains a neural network, and allows interactive conversations. 
+The project demonstrates real-world AI application for chatbots, customer support, and automated assistants. 
